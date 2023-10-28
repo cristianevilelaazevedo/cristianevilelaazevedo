@@ -16,7 +16,7 @@ Nesse período, descobri que tenho uma grande afinidade para a área de Seguran�
 - Frontend: HTML | CSS | JavaScript
 - Ferramentas: Figma | Photoshop | Illustrator | VSCode | Github | Git
 - Demais conhecimentos: UX Design | UI Design | Design Gráfico | Metodologia Ágil | Interface Visual | BI - Business Intelligence | Marketing Digital
-- Em estudo: Segurança da Informação | Python | Redes | Sistemas Operacionais
+- Estudando: Segurança da Informação | Python | Redes | Sistemas Operacionais
 
 **Soft Skills:**
 - Comunicação 
