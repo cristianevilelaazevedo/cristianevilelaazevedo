@@ -1,25 +1,25 @@
 # Hey, eu sou a Cristiane! 😊  
 
-Um pouquinho sobre mim!  
+Um pouquinho sobre mim! 
 
-Sempre tive grande interesse por coisas visuais o que acabou por me motivar a cursar Design Gráfico e realizar alguns trabalhos de redes sociais. Mas com o tempo, percebi que não era exatamente isso o que eu queria para minha carreira.  
+Sou uma profissional em transição de carreira para a área de dados, mais especificamente Ciência de Dados. 
 
-Como sempre gostei de estudar e pesquisar, comecei a mergulhar nos conceitos e possibilidades da área de tecnologia e percebi que não seria necessário abandonar o design para migrar de área e iniciar uma carreira no mundo tecnológico!
+Com formação em design e tecnologia, tenho buscado aprimorar meus conhecimentos na área de dados através de cursos e livros. Minha bagagem anterior engloba conhecimentos em UX/UI Design, desenvolvimento front-end e um pouco de cibersegurança.
 
-Fiz a minha segunda graduação, dessa vez em Sistemas de Informação e também fiz o curso de UX Design, oferecido pela Design Circuit, me dedicando aos estudos da área de frontend e seguindo em busca da minha realização profissional!
+Tenho vivência no setor de suporte de sistemas, no setor financeiro, na área de design e atendimento ao cliente, conhecimentos que contribuem para fortalecer as minhas habilidades de comunicação, trabalho em equipe e resolução de problemas. 
 
-Durante os meus estudos, descobri um interesse pelas área de Segurança da Informação e de Dados e tenho dedicado um tempo exclusivo para aprender mais sobre elas.
+Essas habilidades, que misturam criatividade, lógica, empatia e determinação, auxiliam em minha jornada de desenvolvimento pessoal e profissional e na minha capacidade de transformar informação em solução.
 
 ## Minhas Skills 🚀
 
-Essas são as minhas skills e continuo mantendo o aprendizado em cada uma:
+Essas são as minhas principais skills:
 
-**Hard Skills:**
+**Habilidades e Ferramentas:**
 
-- Frontend: HTML | CSS | JavaScript | React
-- Ferramentas: Figma | Photoshop | Illustrator | VSCode | Github | Git
-- Demais conhecimentos: UX Design | UI Design | Design Gráfico | Metodologia Ágil | Interface Visual | BI - Business Intelligence | Marketing Digital
-- Estudando: Segurança da Informação | Python | Redes | Sistemas Operacionais | Estatística
+- Dados: SQL | Estatística | Python | Excel | Storytelling com Dados | Engenharia de Dados | Dashboards | Análise de Dados | Ciência de Dados
+- Desenvolvimento Frontend: HTML | CSS | JavaScript | React
+- Ferramentas: Figma | Photoshop | Illustrator | VSCode | Github | Git | Power BI | Looker
+- Demais conhecimentos: UX Design | UI Design | Design Gráfico | Metodologia Ágil | Interface Visual | BI - Business Intelligence | Marketing Digital | Segurança da Informação | Redes | Sistemas Operacionais 
 
 **Soft Skills:**
 
